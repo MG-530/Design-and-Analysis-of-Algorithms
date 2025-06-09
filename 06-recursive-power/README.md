@@ -41,12 +41,12 @@ The output.txt file will contain:
 Input (input.txt):
 ```
 2
-5
+10
 ```
 
 Output (output.txt):
 ```
-32
+1024
 ```
 
 ## Implementation Notes

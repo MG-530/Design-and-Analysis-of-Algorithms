@@ -7,7 +7,7 @@ This algorithm calculates the power of a number using recursion. It computes x^n
 - Time Complexity: O(log n) where n is the exponent
 - Space Complexity: O(log n) due to the recursion stack
 
-### How it Works
+## How it Works
 Calculates aᵇ using fast exponentiation (exponentiation by squaring).
 
 **Recursive Formula:**

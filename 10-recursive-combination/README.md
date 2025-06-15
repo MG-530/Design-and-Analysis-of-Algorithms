@@ -7,7 +7,7 @@ This algorithm calculates the number of ways to choose k items from a set of n i
 - Time Complexity: O(2^n) where n is the total number of items
 - Space Complexity: O(n) due to the recursion stack
 
-### How it Works
+## How it Works
 Calculates C(n,k) = n!/(k!(n-k)!) using Pascal's triangle property.
 
 **Recursive Formula:**

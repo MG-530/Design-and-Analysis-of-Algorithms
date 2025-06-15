@@ -7,7 +7,7 @@ This algorithm calculates the Greatest Common Divisor (GCD) of two numbers using
 - Time Complexity: O(log(min(a,b))) where a and b are the input numbers
 - Space Complexity: O(log(min(a,b))) due to the recursion stack
 
-### How it Works
+## How it Works
 Uses Euclidean algorithm: GCD(a,b) = GCD(b, a mod b).
 
 **Mathematical Principle:**

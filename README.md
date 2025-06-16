@@ -21,12 +21,12 @@ A comprehensive collection of fundamental algorithms implemented in **Python**, 
 | 7 | **Quotient (Recursive)** | Division using repeated subtraction | O(a/b) | O(a/b) |
 | 8 | **Remainder (Recursive)** | Modulo operation using recursion | O(a/b) | O(a/b) |
 | 9 | **GCD (Recursive)** | Greatest Common Divisor using Euclidean algorithm | O(log min(a,b)) | O(log min(a,b)) |
-| 10 | **Combination (Recursive)** | Calculate nCr combinatorially | O(2^n) | O(n) |
+| 10 | **Combination (Recursive)** | Calculate nCr combinatorially | O(2<sup>n</sup>) | O(n) |
 
 ### 🏗️ Problem Solving
 | # | Algorithm | Description | Time Complexity | Space Complexity |
 |---|-----------|-------------|----------------|------------------|
-| 11 | **Hanoi Tower** | Classic recursive puzzle solver | O(2^n) | O(n) |
+| 11 | **Hanoi Tower** | Classic recursive puzzle solver | O(2<sup>n</sup>) | O(n) |
 
 ### 🔍 Search Algorithms
 | # | Algorithm | Description | Time Complexity | Space Complexity |
@@ -45,7 +45,7 @@ A comprehensive collection of fundamental algorithms implemented in **Python**, 
 | # | Algorithm | Description | Time Complexity | Space Complexity |
 |---|-----------|-------------|----------------|------------------|
 | 17 | **Merge Sort** | Stable, divide-and-conquer sorting algorithm | O(n log n) | O(n) |
-| 18 | **Quick Sort** | Efficient divide-and-conquer sorting algorithm | O(n log n) avg, O(n²) worst | O(log n) |
+| 18 | **Quick Sort** | Efficient divide-and-conquer sorting algorithm | O(n log n) avg, O(n<sup>2</sup>) worst | O(log n) |
 
 
 ## 🏗️ Repository Structure
